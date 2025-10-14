@@ -28,8 +28,10 @@ O sistema não possui funcionalidade de cadastro, edição ou exclusão de usuá
 5.Abra o terminal dentro da pasta do projeto e execute os comandos “composer install” e “composer dump-autoload”.
 6.Verifique se o arquivo “storage/products.txt” existe. Caso não exista, crie-o manualmente como um arquivo de texto vazio.
 7.Inicie o Apache no painel do XAMPP.
-8.No navegador, acesse “http://localhost/SRP/public/users.php” para visualizar a listagem de usuários. 
+8.No navegador, acesse "http://localhost/SRP/public" para cadastrar os usuários.
+9.No navegador, acesse “http://localhost/SRP/public/users.php” para visualizar a listagem de usuários. 
 ```
+
 
 
 
